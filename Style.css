@@ -1,0 +1,35 @@
+/* Global styles */
+body {
+    font-family: "Arial", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #6a5acd; /* Darker Purple color for header */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 36px;
+}
+
+/* Other sections and styles remain the same */
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #6a5acd; /* Darker Purple color for footer */
+}
+
+footer img {
+    max-width: 100%;
+    height: auto;
+}
