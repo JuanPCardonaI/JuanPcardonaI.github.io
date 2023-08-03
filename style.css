@@ -1,0 +1,34 @@
+header,
+footer {
+  background-color: #bf1f38ff;
+}
+
+.logo_cambridge-public-library {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+ 
+
+.sidebar   {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 33%;
+}
+
+.slideshow {
+    padding-top: 1%;
+    display: block;
+    
+}
+
+body{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
